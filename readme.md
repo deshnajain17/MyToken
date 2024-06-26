@@ -1,17 +1,12 @@
-# MyToken Smart Contract
+ # START
+ This solidity program is a basic example of a smart contarct like allows for a creation, minting ,burning of tokens 
+ proving a fundamental framework for understanding the core functionality of token management in the solidity programming
+ language .This framework is a starting point for biggners to learn solidity and understand token creation,minting,and 
+ burning.
 
-This is a basic smart contract called MyToken that implements a custom token with minting and burning functions.
+ # DESCRIPTION
+ A simple solidity contract for ethereum blockchain development.This contract creates a basic ERC-20 token with 
+ mint,burn,and balancance tracking fearures.
 
-## Requirements
-
-1. Public variables store token details (Token Name, Token Abbreviation, Total Supply).
-2. Mapping of addresses to balances is used (address => uint).
-3. Mint function increases total supply by a specified value and increases the balance of the sender's address.
-4. Burn function decreases total supply and sender's balance by a specified value.
-5. Burn function includes conditionals to check if the sender's balance is sufficient for burning.
-## Usage
-
-1. Deploy the MyToken contract on a compatible blockchain network.
-2. Use the mint function to create new tokens and distribute them to addresses.
-3. Use the burn function to destroy tokens and reduce the total supply.
-
+ # AUTHOR
+ Deshna 
