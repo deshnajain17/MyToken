@@ -1,7 +1,9 @@
 MyToken
+
 This solidity program aims at demonstrating the functionality of Tokens using the basic variables and functions of the Solidity programming language.
 
 Description
+
 This program is a simple contract written in Solidity. Solidity is a programming language used for developing smart contracts on the Ethereum blockchain. The contract has functions like mint and burn. Mint function is used to increase the total supply by the number passed and increases the balance of the address by that amount. Burn function is used to decrease the total supply by the number passed and decreases the balance of the address by that amount.
 
 Getting Started
